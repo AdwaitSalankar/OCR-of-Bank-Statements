@@ -21,7 +21,7 @@ This is a Streamlit application designed to process financial documents like sal
 
 2. Navigate to the project directory:
    ```bash
-   cd OCR-of-Bank-Statements-main
+   cd OCR-of-Bank-Statements
 
 3. Install dependencies:
    ```bash
