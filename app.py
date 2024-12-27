@@ -440,4 +440,4 @@ if st.session_state.downloaded_images:
                     df = pd.DataFrame({'Extracted Text': lines})
                     st.dataframe(df, use_container_width=True)
 else:
-    st.warning("No images downloaded from Database.")     
+    st.info("Click 'Visualize' to start processing images.")
