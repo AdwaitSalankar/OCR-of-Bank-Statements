@@ -17,11 +17,11 @@ This is a Streamlit application designed to process financial documents like sal
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/AdwaitSalankar/OCR-of-Bank-Statements.git>
+   git clone https://github.com/AdwaitSalankar/OCR-of-Bank-Statements.git
 
 2. Navigate to the project directory:
    ```bash
-   cd <OCR-of-Bank-Statements-main>
+   cd OCR-of-Bank-Statements-main
 
 3. Install dependencies:
    ```bash
